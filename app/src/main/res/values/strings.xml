@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="action_about">About</string>
+    <string name="author">Wenjuan Lu (lu000094)</string>
+</resources>
